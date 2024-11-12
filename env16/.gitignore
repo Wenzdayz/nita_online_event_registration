@@ -1,0 +1,16 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore Django database files (if using SQLite)
+db.sqlite3
+
+# Ignore media and static files (if generated automatically)
+/media/
+/staticfiles/
+
+# Ignore the virtual environment folder
+env16/
+
+# Ignore environment variable files (if any)
+*.env
